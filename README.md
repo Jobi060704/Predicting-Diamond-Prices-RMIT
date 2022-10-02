@@ -1,5 +1,5 @@
 # math_files branch of lost data
-These contain files for math phase 1 &amp; 2 on Eddie's computer
+These contain files for math phase 1 &amp; 2
 
 ## Before commiting
 
