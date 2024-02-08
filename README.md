@@ -1,6 +1,3 @@
-# math_files branch of lost data
-These contain files for math phase 1 &amp; 2
+The full project repository for Predicting Diamond Prices
 
-## Before commiting
-
-Clear your outputs on the jupyter notebook through vscode.
+Please Refer to Phase 1 and Phase 2 as final profucts of the project
